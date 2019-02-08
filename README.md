@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/apawast/Python%20sample%20pipeline/_apis/build/status/apawast.pipelines-python-django?branchName=master)](https://dev.azure.com/apawast/Python%20sample%20pipeline/_build/latest?definitionId=3&branchName=master)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
