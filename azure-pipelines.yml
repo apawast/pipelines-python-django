@@ -73,5 +73,4 @@ steps:
     externalFeeds: 'feed_name1, feed_name2'
     
     
- - script: 'twine -r {feedName/EndpointName} --config-file $(PYPIRC_PATH) {package path to publish}'
 
